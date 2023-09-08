@@ -1,1 +1,0 @@
-ALTER TABLE "public"."git_material" ADD COLUMN "filter_pattern" json DEFAULT '[]';
